@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Maven Quickstart</string>
+    <string name="hello">Hello IntervalTimer!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Interval_time">Interval time</string>
+    <string name="Break_time">Break time</string>
+    <string name="Number_Of_Intervals">Number of Intervals</string>
+
+</resources>
